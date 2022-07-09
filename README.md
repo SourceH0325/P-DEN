@@ -1,2 +1,3 @@
 # P-DEN
-Dashboard design
+
+### P-DEN is a dashboard design project.
